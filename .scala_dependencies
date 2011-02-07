@@ -1,0 +1,13 @@
+C:\Users\Thomas\workspace\android-workshop-scala\bin;C:\Android\android-sdk-windows\platforms\android-7\android.jar;C:\Program Files\eclipse-ganymede\configuration\org.eclipse.osgi\bundles\255\1\.cp\lib\scala-library.jar;C:\Program Files\eclipse-ganymede\configuration\org.eclipse.osgi\bundles\255\1\.cp\lib\scala-dbc.jar;C:\Program Files\eclipse-ganymede\configuration\org.eclipse.osgi\bundles\255\1\.cp\lib\scala-swing.jar
+-------
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\TweetsController.scala
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\gen\no\mesan\android\scala\demo\R.java
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\TweetsController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\TweetsController.scala
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\TweetsController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\gen\no\mesan\android\scala\demo\R.java
+-------
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\bin\no\mesan\android\scala\demo\DefaultController$$anon$2.class
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\bin\no\mesan\android\scala\demo\DefaultController.class
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\bin\no\mesan\android\scala\demo\DefaultController$$anon$1.class
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\DefaultController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\bin\no\mesan\android\scala\demo\DefaultController$$anon$3.class
+C:\Users\Thomas\workspace\android-workshop-scala\src\no\mesan\android\scala\demo\TweetsController.scala -> C:\Users\Thomas\workspace\android-workshop-scala\bin\no\mesan\android\scala\demo\TweetsController.class
