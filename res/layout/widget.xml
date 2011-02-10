@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/widget_bg">
+	
+	<TextView 
+		android:id="@+id/lblTrendingTopics"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:textColor="@color/twitter_light_blue"
+		android:textSize="16dp"
+		android:layout_marginTop="85dp"
+		android:layout_marginLeft="25dp"
+		android:layout_marginRight="25dp"/>
+</LinearLayout>
